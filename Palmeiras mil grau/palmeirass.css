@@ -1,0 +1,89 @@
+html, body{
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+div#imagempalmeiras{
+    display: flex;
+    justify-content: center;
+
+}
+div#noticias{
+    background-color: darkgreen;
+    border: none;
+    margin: 10px;
+    font-size: medium;
+    height: 50;
+    width: 3
+}
+
+
+#vv{
+    font-size: larger;
+    color: green;
+    background-color: antiquewhite;
+
+}
+#nome{
+    background-color: antiquewhite;
+
+}
+
+#ww{
+    background-color: green;
+    color: aliceblue;
+    width: 50%;
+}
+nav#g{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+}
+#q{
+    background-color: red;
+    color: aliceblue;
+    width: 50%;
+
+}
+#z{
+    display: flex;
+    justify-content: space-between;
+}
+main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    color: rgb(73, 133, 185);
+}
+div#card1{
+    width: 30%;
+    height: 30%;
+    background-color: antiquewhite;
+       
+}
+div#card2{
+    width: 30%;
+    height: 30%;
+    background-color: antiquewhite;
+
+}
+div#card3{
+    width: 30%;
+    height: 30%;
+    background-color: antiquewhite;
+    
+}
+#quadro{
+    width: 80%;
+    height: 60%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: red;
+}
+
+    
